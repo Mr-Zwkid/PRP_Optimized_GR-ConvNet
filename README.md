@@ -1,7 +1,7 @@
-# Antipodal Robotic Grasping
-We present a novel generative residual convolutional neural network based model architecture which detects objects in the camera’s field of view and predicts a suitable antipodal grasp configuration for the objects in the image.
+# Multimodal Grasping Detection based Optimized GR-ConvNet
+Aiming at the robotic grasping detection problem in unstructured environments, the GR-ConvNet deep learning model is optimized by introducing the attention mechanism, adding dropout layers and designing the GS-Inception-Residual block and the multimodal fusion module. The migration learning mechanism is introduced during model training to improve the model generalization performance and shorten the training time. As the ablation experiments and multimodal fusion experiments show, targeted at Cornell dataset of image splitting and object splitting, the optimized GR-ConvNet achieves higher detection accuracy while ensuring the detection speed.
 
-This repository contains the implementation of the Generative Residual Convolutional Neural Network (GR-ConvNet) from the paper:
+This repository contains GR-ConvNet from the paper, based on which we make the optimazation:
 
 #### Antipodal Robotic Grasping using Generative Residual Convolutional Neural Network
 
@@ -10,8 +10,6 @@ Sulabh Kumra, Shirin Joshi, Ferat Sahin
 [arxiv](https://arxiv.org/abs/1909.04810) | [video](https://youtu.be/cwlEhdoxY4U)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/antipodal-robotic-grasping-using-generative/robotic-grasping-on-cornell-grasp-dataset)](https://paperswithcode.com/sota/robotic-grasping-on-cornell-grasp-dataset?p=antipodal-robotic-grasping-using-generative)
-
-If you use this project in your research or wish to refer to the baseline results published in the paper, please use the following BibTeX entry:
 
 ```
 @inproceedings{kumra2020antipodal,
@@ -41,7 +39,7 @@ If you use this project in your research or wish to refer to the baseline result
 ## Installation
 - Checkout the robotic grasping package
 ```bash
-$ git clone https://github.com/skumra/robotic-grasping.git
+$ git clone https://github.com/Mr-Zwkid/PRP_Optimized_GR-ConvNet.git
 ```
 
 - Create a virtual environment
@@ -56,23 +54,18 @@ $ source venv/bin/activate
 
 - Install the requirements
 ```bash
-$ cd robotic-grasping
+$ cd PRP_Optimized_GR-ConvNet
 $ pip install -r requirements.txt
 ```
 
 ## Datasets
 
-This repository supports both the [Cornell Grasping Dataset](http://pr.cs.cornell.edu/grasping/rect_data/data.php) and
-[Jacquard Dataset](https://jacquard.liris.cnrs.fr/).
+This repository supports the [Cornell Grasping Dataset](http://pr.cs.cornell.edu/grasping/rect_data/data.php).
 
 #### Cornell Grasping Dataset
 
 1. Download the and extract [Cornell Grasping Dataset](http://pr.cs.cornell.edu/grasping/rect_data/data.php). 
 2. Convert the PCD files to depth images by running `python -m utils.dataset_processing.generate_cornell_depth <Path To Dataset>`
-
-#### Jacquard Dataset
-
-1. Download and extract the [Jacquard Dataset](https://jacquard.liris.cnrs.fr/).
 
 
 ## Model Training
@@ -85,11 +78,6 @@ Example for Cornell dataset:
 python train_network.py --dataset cornell --dataset-path <Path To Dataset> --description training_cornell
 ```
 
-Example for Jacquard dataset:
-
-```bash
-python train_network.py --dataset jacquard --dataset-path <Path To Dataset> --description training_jacquard --use-dropout 0 --input-size 300
-```
 
 ## Model Evaluation
 
@@ -101,17 +89,3 @@ Example for Cornell dataset:
 python evaluate.py --network <Path to Trained Network> --dataset cornell --dataset-path <Path to Dataset> --iou-eval
 ```
 
-Example for Jacquard dataset:
-
-```bash
-python evaluate.py --network <Path to Trained Network> --dataset jacquard --dataset-path <Path to Dataset> --iou-eval --use-dropout 0 --input-size 300
-```
-
-## Run Tasks
-A task can be executed using the relevant run script. All task scripts are named as `run_<task name>.py`. For example, to run the grasp generator run:
-```bash
-python run_grasp_generator.py
-```
-
-## Run on a Robot
-To run the grasp generator with a robot, please use our ROS implementation for Baxter robot. It is available at: https://github.com/skumra/baxter-pnp
