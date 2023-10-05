@@ -1,0 +1,162 @@
+
+Loading Cornell Dataset...
+Validation size: 177
+Done
+
+Evaluating model logs\230816_1044_\epoch_00_iou_0.85.pt
+Loading Cornell Dataset...
+Validation size: 177
+Done
+
+Evaluating model logs\230816_1044_\epoch_00_iou_0.85.pt
+Average evaluation time per image: 76.62712382731465ms
+IOU Results: 159/177 = 0.898305
+
+Evaluating model logs\230816_1044_\epoch_01_iou_0.88.pt
+Average evaluation time per image: 65.19337562517931ms
+IOU Results: 147/177 = 0.830508
+
+Evaluating model logs\230816_1044_\epoch_02_iou_0.92.pt
+Average evaluation time per image: 64.05274612081926ms
+IOU Results: 156/177 = 0.881356
+
+Evaluating model logs\230816_1044_\epoch_03_iou_0.94.pt
+Average evaluation time per image: 65.05572324418753ms
+IOU Results: 157/177 = 0.887006
+
+Evaluating model logs\230816_1044_\epoch_04_iou_0.95.pt
+Average evaluation time per image: 65.44019542844956ms
+IOU Results: 159/177 = 0.898305
+
+Evaluating model logs\230816_1044_\epoch_16_iou_0.91.pt
+Average evaluation time per image: 64.97195885006317ms
+IOU Results: 160/177 = 0.903955
+
+Evaluating model logs\230816_1044_\epoch_17_iou_0.88.pt
+Average evaluation time per image: 65.34643227097678ms
+IOU Results: 146/177 = 0.824859
+
+Evaluating model logs\230816_1044_\epoch_18_iou_0.73.pt
+Average evaluation time per image: 66.31917199172543ms
+IOU Results: 137/177 = 0.774011
+
+Evaluating model logs\230816_1044_\epoch_19_iou_0.88.pt
+Average evaluation time per image: 71.8616671481375ms
+IOU Results: 157/177 = 0.887006
+Loading Cornell Dataset...
+Validation size: 89
+Done
+
+Evaluating model logs\230816_1044_\epoch_00_iou_0.85.pt
+Average evaluation time per image: 104.43622610542212ms
+IOU Results: 82/89 = 0.921348
+
+Evaluating model logs\230816_1044_\epoch_01_iou_0.88.pt
+Average evaluation time per image: 82.27230993549475ms
+IOU Results: 78/89 = 0.876404
+
+Evaluating model logs\230816_1044_\epoch_02_iou_0.92.pt
+Average evaluation time per image: 80.51810639627864ms
+IOU Results: 82/89 = 0.921348
+
+Evaluating model logs\230816_1044_\epoch_03_iou_0.94.pt
+Average evaluation time per image: 83.00484700149364ms
+IOU Results: 85/89 = 0.955056
+
+Evaluating model logs\230816_1044_\epoch_04_iou_0.95.pt
+Average evaluation time per image: 82.33341206325574ms
+IOU Results: 87/89 = 0.977528
+
+Evaluating model logs\230816_1044_\epoch_16_iou_0.91.pt
+Average evaluation time per image: 80.08478196819178ms
+IOU Results: 87/89 = 0.977528
+
+Evaluating model logs\230816_1044_\epoch_17_iou_0.88.pt
+Average evaluation time per image: 79.75030481145623ms
+IOU Results: 73/89 = 0.820225
+
+Evaluating model logs\230816_1044_\epoch_18_iou_0.73.pt
+Average evaluation time per image: 81.9868291361948ms
+IOU Results: 69/89 = 0.775281
+
+Evaluating model logs\230816_1044_\epoch_19_iou_0.88.pt
+Average evaluation time per image: 83.61858196472855ms
+IOU Results: 87/89 = 0.977528
+Loading Cornell Dataset...
+Validation size: 89
+Done
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_00_iou_0.85.pt
+Average evaluation time per image: 102.24013382129455ms
+IOU Results: 82/89 = 0.921348
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_01_iou_0.88.pt
+Average evaluation time per image: 81.32894655291955ms
+IOU Results: 78/89 = 0.876404
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_02_iou_0.92.pt
+Average evaluation time per image: 78.97853583432315ms
+IOU Results: 82/89 = 0.921348
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_03_iou_0.94.pt
+Average evaluation time per image: 78.83118779471751ms
+IOU Results: 85/89 = 0.955056
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_04_iou_0.95.pt
+Average evaluation time per image: 79.544155785207ms
+IOU Results: 87/89 = 0.977528
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_16_iou_0.91.pt
+Average evaluation time per image: 79.4312846794557ms
+IOU Results: 87/89 = 0.977528
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_17_iou_0.88.pt
+Average evaluation time per image: 79.75669121474363ms
+IOU Results: 73/89 = 0.820225
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_18_iou_0.73.pt
+Average evaluation time per image: 80.42201835117983ms
+IOU Results: 69/89 = 0.775281
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_19_iou_0.88.pt
+Average evaluation time per image: 81.16858996702044ms
+IOU Results: 87/89 = 0.977528
+Loading Cornell Dataset...
+Validation size: 89
+Done
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_00_iou_0.85.pt
+Average evaluation time per image: 100.37137149425035ms
+IOU Results: 82/89 = 0.921348
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_01_iou_0.88.pt
+Average evaluation time per image: 79.57231328728494ms
+IOU Results: 78/89 = 0.876404
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_02_iou_0.92.pt
+Average evaluation time per image: 79.02251468615586ms
+IOU Results: 82/89 = 0.921348
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_03_iou_0.94.pt
+Average evaluation time per image: 78.80100507414743ms
+IOU Results: 85/89 = 0.955056
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_04_iou_0.95.pt
+Average evaluation time per image: 80.8629748526584ms
+IOU Results: 87/89 = 0.977528
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_16_iou_0.91.pt
+Average evaluation time per image: 80.95957456010112ms
+IOU Results: 87/89 = 0.977528
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_17_iou_0.88.pt
+Average evaluation time per image: 80.16634523198846ms
+IOU Results: 73/89 = 0.820225
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_18_iou_0.73.pt
+Average evaluation time per image: 80.59786946586009ms
+IOU Results: 69/89 = 0.775281
+
+Evaluating model logs\230816_1044_res_trans_7\epoch_19_iou_0.88.pt
+Average evaluation time per image: 81.29026648703585ms
+IOU Results: 87/89 = 0.977528

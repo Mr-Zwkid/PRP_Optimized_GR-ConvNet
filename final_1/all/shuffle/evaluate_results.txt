@@ -1,0 +1,27 @@
+Loading Cornell Dataset...
+Validation size: 89
+Done
+
+Evaluating model final_1\all\shuffle\epoch_23_iou_0.91.pt
+Average evaluation time per image: 102.70118713378906ms
+IOU Results: 85/89 = 0.955056
+
+Evaluating model final_1\all\shuffle\epoch_30_iou_0.91.pt
+Average evaluation time per image: 79.87722118249101ms
+IOU Results: 88/89 = 0.988764
+
+Evaluating model final_1\all\shuffle\epoch_32_iou_0.93.pt
+Average evaluation time per image: 80.94292812133102ms
+IOU Results: 87/89 = 0.977528
+
+Evaluating model final_1\all\shuffle\epoch_46_iou_0.86.pt
+Average evaluation time per image: 80.16350831878319ms
+IOU Results: 86/89 = 0.966292
+
+Evaluating model final_1\all\shuffle\epoch_48_iou_0.89.pt
+Average evaluation time per image: 81.20571897270975ms
+IOU Results: 87/89 = 0.977528
+
+Evaluating model final_1\all\shuffle\epoch_49_iou_0.86.pt
+Average evaluation time per image: 80.53721470779247ms
+IOU Results: 86/89 = 0.966292

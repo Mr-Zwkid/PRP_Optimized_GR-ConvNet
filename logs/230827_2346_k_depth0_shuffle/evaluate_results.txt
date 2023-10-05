@@ -1,0 +1,62 @@
+Loading Cornell Dataset...
+Validation size: 177
+Done
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_00_iou_0.78.pt
+Average evaluation time per image: 79.76768649904068ms
+IOU Results: 126/177 = 0.711864
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_01_iou_0.85.pt
+Average evaluation time per image: 55.39265999012748ms
+IOU Results: 151/177 = 0.853107
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_03_iou_0.91.pt
+Average evaluation time per image: 55.0658042821507ms
+IOU Results: 164/177 = 0.926554
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_06_iou_0.91.pt
+Average evaluation time per image: 55.62384249800342ms
+IOU Results: 161/177 = 0.909605
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_11_iou_0.90.pt
+Average evaluation time per image: 54.795162825934625ms
+IOU Results: 155/177 = 0.875706
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_14_iou_0.93.pt
+Average evaluation time per image: 55.42945323017357ms
+IOU Results: 155/177 = 0.875706
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_28_iou_0.91.pt
+Average evaluation time per image: 54.884703145862304ms
+IOU Results: 157/177 = 0.887006
+Loading Cornell Dataset...
+Validation size: 89
+Done
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_00_iou_0.78.pt
+Average evaluation time per image: 92.9387580142932ms
+IOU Results: 75/89 = 0.842697
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_01_iou_0.85.pt
+Average evaluation time per image: 69.93498962916685ms
+IOU Results: 78/89 = 0.876404
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_03_iou_0.91.pt
+Average evaluation time per image: 70.56499331184988ms
+IOU Results: 87/89 = 0.977528
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_06_iou_0.91.pt
+Average evaluation time per image: 69.77369276325354ms
+IOU Results: 85/89 = 0.955056
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_11_iou_0.90.pt
+Average evaluation time per image: 70.20970408836108ms
+IOU Results: 86/89 = 0.966292
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_14_iou_0.93.pt
+Average evaluation time per image: 69.83823186895822ms
+IOU Results: 83/89 = 0.932584
+
+Evaluating model logs\230827_2346_k_depth0_shuffle\epoch_28_iou_0.91.pt
+Average evaluation time per image: 70.0882686657852ms
+IOU Results: 83/89 = 0.932584

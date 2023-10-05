@@ -1,0 +1,11 @@
+Loading Cornell Dataset...
+Validation size: 266
+Done
+
+Evaluating model logs\230804_1812_base_trans\epoch_00_iou_0.93.pt
+Average evaluation time per image: 67.70811762128558ms
+IOU Results: 247/266 = 0.928571
+
+Evaluating model logs\230804_1812_base_trans\epoch_01_iou_0.97.pt
+Average evaluation time per image: 61.86342239379883ms
+IOU Results: 251/266 = 0.943609

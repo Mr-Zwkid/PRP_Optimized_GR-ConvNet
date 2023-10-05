@@ -1,0 +1,33 @@
+Loading Cornell Dataset...
+Validation size: 89
+Done
+
+Evaluating model final_1\dropout0\normal\epoch_33_iou_0.93.pt
+Average evaluation time per image: 105.86232013916702ms
+IOU Results: 80/89 = 0.898876
+
+Evaluating model final_1\dropout0\normal\epoch_40_iou_0.91.pt
+Average evaluation time per image: 81.50839805603027ms
+IOU Results: 80/89 = 0.898876
+Loading Cornell Dataset...
+Validation size: 89
+Done
+
+Evaluating model final_1\dropout0\normal\epoch_33_iou_0.93.pt
+Average evaluation time per image: 100.01670912410437ms
+IOU Results: 87/89 = 0.977528
+
+Evaluating model final_1\dropout0\normal\epoch_40_iou_0.91.pt
+Average evaluation time per image: 79.18781109070511ms
+IOU Results: 85/89 = 0.955056
+Loading Cornell Dataset...
+Validation size: 177
+Done
+
+Evaluating model final_1\dropout0\normal\epoch_33_iou_0.93.pt
+Average evaluation time per image: 76.63768428867147ms
+IOU Results: 164/177 = 0.926554
+
+Evaluating model final_1\dropout0\normal\epoch_40_iou_0.91.pt
+Average evaluation time per image: 65.98048156264139ms
+IOU Results: 164/177 = 0.926554

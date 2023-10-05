@@ -1,0 +1,188 @@
+Loading Cornell Dataset...
+Validation size: 177
+Done
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_00_iou_0.78.pt
+Average evaluation time per image: 82.74740283772097ms
+IOU Results: 145/177 = 0.819209
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_01_iou_0.86.pt
+Average evaluation time per image: 64.80426303410934ms
+IOU Results: 152/177 = 0.858757
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_02_iou_0.88.pt
+Average evaluation time per image: 64.7132208118331ms
+IOU Results: 149/177 = 0.841808
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_03_iou_0.88.pt
+Average evaluation time per image: 64.84456250896561ms
+IOU Results: 155/177 = 0.875706
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_04_iou_0.92.pt
+Average evaluation time per image: 65.29515207150561ms
+IOU Results: 160/177 = 0.903955
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_10_iou_0.92.pt
+Average evaluation time per image: 64.86665596396236ms
+IOU Results: 161/177 = 0.909605
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_23_iou_0.93.pt
+Average evaluation time per image: 65.23348517337088ms
+IOU Results: 161/177 = 0.909605
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_46_iou_0.82.pt
+Average evaluation time per image: 65.3494158707096ms
+IOU Results: 139/177 = 0.785311
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_47_iou_0.87.pt
+Average evaluation time per image: 64.80437752890722ms
+IOU Results: 159/177 = 0.898305
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_48_iou_0.86.pt
+Average evaluation time per image: 64.95860067464537ms
+IOU Results: 154/177 = 0.870056
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_49_iou_0.89.pt
+Average evaluation time per image: 65.55077315723828ms
+IOU Results: 150/177 = 0.847458
+Loading Cornell Dataset...
+Validation size: 89
+Done
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_00_iou_0.78.pt
+Average evaluation time per image: 103.52198461468299ms
+IOU Results: 74/89 = 0.831461
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_01_iou_0.86.pt
+Average evaluation time per image: 80.24665746795998ms
+IOU Results: 82/89 = 0.921348
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_02_iou_0.88.pt
+Average evaluation time per image: 80.2009989706318ms
+IOU Results: 79/89 = 0.887640
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_03_iou_0.88.pt
+Average evaluation time per image: 80.31923047612223ms
+IOU Results: 85/89 = 0.955056
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_04_iou_0.92.pt
+Average evaluation time per image: 79.94417929917239ms
+IOU Results: 84/89 = 0.943820
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_10_iou_0.92.pt
+Average evaluation time per image: 80.91237571802031ms
+IOU Results: 89/89 = 1.000000
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_23_iou_0.93.pt
+Average evaluation time per image: 79.92469594719705ms
+IOU Results: 84/89 = 0.943820
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_46_iou_0.82.pt
+Average evaluation time per image: 80.33938890092828ms
+IOU Results: 68/89 = 0.764045
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_47_iou_0.87.pt
+Average evaluation time per image: 80.4365458113424ms
+IOU Results: 85/89 = 0.955056
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_48_iou_0.86.pt
+Average evaluation time per image: 79.75121562400561ms
+IOU Results: 79/89 = 0.887640
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_49_iou_0.89.pt
+Average evaluation time per image: 80.84740531578493ms
+IOU Results: 79/89 = 0.887640
+Loading Cornell Dataset...
+Validation size: 177
+Done
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_00_iou_0.78.pt
+Average evaluation time per image: 78.0843570407501ms
+IOU Results: 103/177 = 0.581921
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_01_iou_0.86.pt
+Average evaluation time per image: 65.2991162855073ms
+IOU Results: 124/177 = 0.700565
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_02_iou_0.88.pt
+Average evaluation time per image: 65.66207826474292ms
+IOU Results: 104/177 = 0.587571
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_03_iou_0.88.pt
+Average evaluation time per image: 67.31246824318406ms
+IOU Results: 148/177 = 0.836158
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_04_iou_0.92.pt
+Average evaluation time per image: 65.99450515488446ms
+IOU Results: 138/177 = 0.779661
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_10_iou_0.92.pt
+Average evaluation time per image: 66.59703335519563ms
+IOU Results: 132/177 = 0.745763
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_23_iou_0.93.pt
+Average evaluation time per image: 65.98918451427741ms
+IOU Results: 154/177 = 0.870056
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_46_iou_0.82.pt
+Average evaluation time per image: 65.95043812767933ms
+IOU Results: 100/177 = 0.564972
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_47_iou_0.87.pt
+Average evaluation time per image: 66.11718835130249ms
+IOU Results: 161/177 = 0.909605
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_48_iou_0.86.pt
+Average evaluation time per image: 66.31190359255689ms
+IOU Results: 150/177 = 0.847458
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_49_iou_0.89.pt
+Average evaluation time per image: 65.89688284922454ms
+IOU Results: 126/177 = 0.711864
+Loading Cornell Dataset...
+Validation size: 89
+Done
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_00_iou_0.78.pt
+Average evaluation time per image: 101.25372115145909ms
+IOU Results: 59/89 = 0.662921
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_01_iou_0.86.pt
+Average evaluation time per image: 80.50165015659975ms
+IOU Results: 67/89 = 0.752809
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_02_iou_0.88.pt
+Average evaluation time per image: 80.62647165877095ms
+IOU Results: 63/89 = 0.707865
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_03_iou_0.88.pt
+Average evaluation time per image: 80.62660292293249ms
+IOU Results: 75/89 = 0.842697
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_04_iou_0.92.pt
+Average evaluation time per image: 80.73104365488116ms
+IOU Results: 74/89 = 0.831461
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_10_iou_0.92.pt
+Average evaluation time per image: 80.74083488978697ms
+IOU Results: 66/89 = 0.741573
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_23_iou_0.93.pt
+Average evaluation time per image: 80.62991399443551ms
+IOU Results: 78/89 = 0.876404
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_46_iou_0.82.pt
+Average evaluation time per image: 80.68911948900544ms
+IOU Results: 65/89 = 0.730337
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_47_iou_0.87.pt
+Average evaluation time per image: 80.7571920116296ms
+IOU Results: 84/89 = 0.943820
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_48_iou_0.86.pt
+Average evaluation time per image: 80.90663759895925ms
+IOU Results: 79/89 = 0.887640
+
+Evaluating model logs\230822_1935_k_ca_gsires_trans\epoch_49_iou_0.89.pt
+Average evaluation time per image: 80.48908630113922ms
+IOU Results: 74/89 = 0.831461

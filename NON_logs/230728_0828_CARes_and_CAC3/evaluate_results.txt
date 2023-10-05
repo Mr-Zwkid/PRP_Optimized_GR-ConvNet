@@ -1,0 +1,31 @@
+Loading Cornell Dataset...
+Validation size: 266
+Done
+
+Evaluating model logs\230728_0828_CARes_and_CAC3\epoch_00_iou_0.71.pt
+Average evaluation time per image: 71.71033468461575ms
+IOU Results: 203/266 = 0.763158
+
+Evaluating model logs\230728_0828_CARes_and_CAC3\epoch_02_iou_0.78.pt
+Average evaluation time per image: 61.80099616373392ms
+IOU Results: 213/266 = 0.800752
+
+Evaluating model logs\230728_0828_CARes_and_CAC3\epoch_03_iou_0.81.pt
+Average evaluation time per image: 59.77854244691089ms
+IOU Results: 215/266 = 0.808271
+
+Evaluating model logs\230728_0828_CARes_and_CAC3\epoch_04_iou_0.81.pt
+Average evaluation time per image: 60.942968927828ms
+IOU Results: 226/266 = 0.849624
+
+Evaluating model logs\230728_0828_CARes_and_CAC3\epoch_05_iou_0.89.pt
+Average evaluation time per image: 61.500090405457ms
+IOU Results: 238/266 = 0.894737
+
+Evaluating model logs\230728_0828_CARes_and_CAC3\epoch_10_iou_0.89.pt
+Average evaluation time per image: 59.84501641495783ms
+IOU Results: 247/266 = 0.928571
+
+Evaluating model logs\230728_0828_CARes_and_CAC3\epoch_16_iou_0.91.pt
+Average evaluation time per image: 59.72219051275039ms
+IOU Results: 246/266 = 0.924812
